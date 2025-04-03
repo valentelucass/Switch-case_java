@@ -5,7 +5,7 @@ enum Mes {
     JANEIRO, FEVEREIRO, MARCO, ABRIL, MAIO, JUNHO, JULHO, AGOSTO, SETEMBRO, OUTUBRO, NOVEMBRO, DEZEMBRO
 }
 
-public class Main1 {
+public class Main2 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
